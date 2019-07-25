@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Other stream",
+      "description": "This is description",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "Description of stream 3",
+      "id": 3
+    },
+    {
+      "title": "test 4",
+      "description": "description for 4",
+      "id": 4
+    },
+    {
+      "title": "qqqqqqq",
+      "description": "wwwwwww",
+      "id": 5
+    },
+    {
+      "title": "This is my first stream",
+      "description": "And this is description",
+      "userId": "102022573264443432316",
+      "id": 6
+    }
+  ],
+  "posts": []
+}
